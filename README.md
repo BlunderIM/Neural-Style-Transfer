@@ -3,4 +3,4 @@ Implementation of Neural Style Transfer from Gatys et al., ”Image Style Transf
 **Example**  
 <img src="./art/3000_style_transfer.png" alt="Image Alt Text" width="800" height="400">  
 
-**Neural Style Transfer - YouTube Video**(https://www.youtube.com/watch?v=N71U_VFosT0)
+[![Neural Style Transfer - YouTube Video](https://img.youtube.com/vi/N71U_VFosT0/0.jpg)](https://www.youtube.com/watch?v=N71U_VFosT0)

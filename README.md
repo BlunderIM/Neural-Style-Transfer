@@ -1,6 +1,6 @@
 Implementation of Neural Style Transfer
 
-**References** 
+**References**  
 Gatys et al., ”Image Style Transfer Using Convolutional Neural Networks”, CVPR2015
 
 **Example**  
